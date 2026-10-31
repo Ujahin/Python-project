@@ -2,7 +2,8 @@
 
 ## Project Overview
 This project performs a comprehensive three-tier analysis on a retail sales dataset 
-containing records of items sold to customers across multiple stores over several years. 
+containing records of items sold to customers across multiple stores over several years.
+
 The analysis covers descriptive, predictive, and prescriptive approaches to uncover 
 business insights and actionable recommendations.
 
@@ -13,7 +14,7 @@ business insights and actionable recommendations.
 - Provide data-driven business recommendations
 
 ## Dataset
-- **Source:** `case-study-data.xlsx`
+- **Source:** `case-study-data.csv`
 - **Contents:** Sales transactions across multiple items, stores, and customers over several years
 - **Note:** Data cleaning applied on the `unit` column in `Fact_table` and `Item_dim` sheets
 
@@ -44,8 +45,8 @@ business insights and actionable recommendations.
 
 ## How to Run
 1. Clone this repository
-2. Upload `case-study-data.xlsx` to your working directory
-3. Open the notebook and run all cells sequentially
+2. Upload `case-study-data.csv`  to your working directory
+4. Open the notebook and run all cells sequentially
 
 ## Results
 All analysis, visualizations, and recommendations are contained in a single notebook.
